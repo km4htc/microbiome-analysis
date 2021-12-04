@@ -1,6 +1,6 @@
 # microbiome analysis tools
 
-## blast.sh
+## [blast.sh](https://github.com/km4htc/microbiome-analysis/blob/14e198165d34a9e8c4c0fb7a3ce4a43ea86e48cb/blast.sh)
 BLASTs a fasta file of queries and additionally retrieves complete taxonomic lineages outputting all to a csv. Requires blast command line tools and entrez direct e-utilities already installed. Only works for 16S rrna and ITS.  
 
 options:  
