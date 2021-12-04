@@ -4,13 +4,9 @@
 BLASTs a fasta file of queries and additionally retrieves complete taxonomic lineages outputting all to a csv. Requires blast command line tools and entrez direct e-utilities already installed. Only works for 16S rrna and ITS.
 
 options:
-
 -i path to input fasta (required)
-
 -o output path (optional)
-
 -n the number of hits per query desired (optional)
-
 example: blast.sh -i my.fa -o results.csv -n 10
 
 ## json2csv.py
